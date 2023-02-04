@@ -9,7 +9,7 @@
     "assembly": {
       "BindingBits.dll": "sha256-IaXrGbv2WjqjBsaaQ8jbqTLL9c2y2CT0AA\/mzmOW\/Mc=",
       "Blazicons.Bootstrap.dll": "sha256-VZ3MDDzyHoEF0qe2ShU3d6swXnxL91ru8Fg9tlBKPNI=",
-      "Blazicons.Demo.dll": "sha256-dKOYqZB+X0BrSgBbhGb5DPql2LbaZJ5qMgSULHh5vvQ=",
+      "Blazicons.Demo.dll": "sha256-vPAW4l96p09GToZKVzVUQc4hbfBOUXqYcGNrFcPhbXg=",
       "Blazicons.dll": "sha256-oOkmLG4sMf\/omhcnmqolO0muiYI1Spkz5m4U2iJMLgU=",
       "Blazicons.FluentUI.dll": "sha256-y2Mti7ccr0j8w\/bYVpT1zVRowMQYMjcAfKUHQSH7Hd4=",
       "Blazicons.FontAwesome.dll": "sha256-+mKkh1pn4DpuF6nXKFzzBoIm6hyvvXRMZHgYx\/oIX\/w=",
@@ -52,7 +52,7 @@
       "System.Private.Uri.dll": "sha256-y0VTRiriavUqWXVIXw5t88Dzd0+B3iAozPZFwVQQjQE=",
       "System.Reactive.dll": "sha256-K2wx37H8YBmkKgB+0OXgBXTebqDEf+0MooK\/O7J3Gww=",
       "System.Resources.ResourceManager.dll": "sha256-S50JMHSfVQt77CYL8RdHqDQPNDhZA2z0T5pF6\/NbM9s=",
-      "System.Runtime.dll": "sha256-O2acxpGTvlwCNFlCD9h2t0xrEh5A0lz3U9t+if19v0o=",
+      "System.Runtime.dll": "sha256-f6I7uROghmoaZInuEOY9g+54B\/lECxZxr9vKJ48dfuQ=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-+Ap+vtyHN\/1f9p3jWgXPuPkR0+AfDsx6gPtmLzAZutQ=",
       "System.Runtime.Serialization.Primitives.dll": "sha256-TFb3Ec6PYkmDbICTb3zrtouIGzYFN5SFSMybZedGOEw=",
       "System.Text.Encodings.Web.dll": "sha256-JGA6QMOu51S10XvvKzUagD7fMdj5BfSAOf2IYmVtNx8=",
