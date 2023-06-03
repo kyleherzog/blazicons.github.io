@@ -9,7 +9,7 @@
     "assembly": {
       "BindingBits.dll": "sha256-IaXrGbv2WjqjBsaaQ8jbqTLL9c2y2CT0AA\/mzmOW\/Mc=",
       "Blazicons.Bootstrap.dll": "sha256-Oo3sHymPThgNM+Nhkdt1CF\/aVzgwpnrisi+bDleqR+8=",
-      "Blazicons.Demo.dll": "sha256-ip8lPOcw8VdoOdr2b6X85UHJ3pqlTR0Cm7VmYMyUDCo=",
+      "Blazicons.Demo.dll": "sha256-VvFp6zmg7po5gdMBoGEL+NbwUb8XDoUUYi982kru9S0=",
       "Blazicons.dll": "sha256-oOkmLG4sMf\/omhcnmqolO0muiYI1Spkz5m4U2iJMLgU=",
       "Blazicons.FluentUI.dll": "sha256-pjEzV9\/3NLmdhf3Uf3FujVjS2E6jSYaB8TCZV8zxopM=",
       "Blazicons.FontAwesome.dll": "sha256-TR16nYJxCNz8yIAztHe77frFQvBiuH04KveLaoRVRC8=",
@@ -39,7 +39,7 @@
       "netstandard.dll": "sha256-2nvBg\/VnFpDyjqe2h5+tppXfmUR0odn\/SbYY5SQh6Z8=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.Collections.Concurrent.dll": "sha256-BPpPc0xPEpC\/F3nTDHC4EJMoDIrPeM7O7wpI26kVGIg=",
-      "System.Collections.dll": "sha256-OoJhTFgKvhWmjxpIFjkK4jRWDkszMZJPrHXHp2bCcgU=",
+      "System.Collections.dll": "sha256-WyuxfF1Rth1rmtLxqbS0hNJLto97Q9874rBQbBpPlv4=",
       "System.Collections.NonGeneric.dll": "sha256-jy\/KeLfP3c955An4wEVCgn8uV\/46CAMjlGut7HgG2cI=",
       "System.Collections.Specialized.dll": "sha256-lvjeFGdmhxrwxTaLgXazaN4JlW6+KqX42W94KsqrcLE=",
       "System.ComponentModel.Annotations.dll": "sha256-0CLAnNsH5DO5MwEUfRkgrTtEtnftEH9pSIv97GnYsxM=",
