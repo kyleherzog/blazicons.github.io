@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazicons.Demo",
   "resources": {
-    "hash": "sha256-/27qvguL9fxPINFPgJ1pVQh9Hs3JZT+KXaDP70LqOuQ=",
+    "hash": "sha256-dg/HdWWY7o8j7By2vUhHt+deKjhCG/1iFIncxGME+Rg=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.k61inthfds.js": "sha256-rieIHyojFLub2N8ceaoNvtHUO7QQaGV4IxoOAwpxRoE="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "BindingBits.wasm": "sha256-+bBvGPukYhSwDMTu+kVzSXgLNUFXB4yYSowrFtt83s0=",
       "Blazicons.Bootstrap.wasm": "sha256-0qV2eve6pAMb996sMANZ/MXveoodDNM+fvkqhKICebY=",
-      "Blazicons.Demo.wasm": "sha256-7nj/p8DC5CLSaKT5m9Orh6ltkk/kncLC6bKf1vfHR14=",
+      "Blazicons.Demo.wasm": "sha256-u7XHUsjP7OVGTiLvfPw21iAuVUCf5s44O824yHH+nu0=",
       "Blazicons.FluentUI.wasm": "sha256-sNFa1W8BHsVD3ykGUOK+4PznnoiqwROJKxmKi+dHdcI=",
       "Blazicons.FontAwesome.wasm": "sha256-pPb43y90hCUHpmWdOzm5K6e3NgijHiG8GrPrF1lHHHo=",
       "Blazicons.GoogleMaterialDesign.wasm": "sha256-44+0USDRvJ9WZIwitCccogHr/gaGA+2jxzFA2dMxMY4=",
