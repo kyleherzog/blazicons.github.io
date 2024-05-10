@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazicons.Demo",
   "resources": {
-    "hash": "sha256-1dlvAI5qvVIYVHnt3HQVFau0TrYotdJHCAmMBDeKmbg=",
+    "hash": "sha256-jVB1io8etQtqgkIM7F9v7Oyi4xxwmlmkHg6FwECaPlI=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.k61inthfds.js": "sha256-rBvhz1vywY20cOTZwIIbPEdfXB97wdCBz2X3gGYhRqE="
     },
@@ -19,12 +19,12 @@
     "assembly": {
       "BindingBits.wasm": "sha256-n0GtRvL20+lzeXL6WJC9BoFKkF7jW6KO/Aae/6cLon4=",
       "Blazicons.Bootstrap.wasm": "sha256-6lstMzRcBUyZqNYLYtxjeqlvS03ZiJL0hfgbcilnOzM=",
-      "Blazicons.Demo.wasm": "sha256-0eLBrSqkoCpe0lsermuAB00wNjDnad79UwPLvYLp1nI=",
+      "Blazicons.Demo.wasm": "sha256-Y0XQGiND1Z5uk7E19r+9MaSOB2Eyx3jw9WXXZsu3AkM=",
       "Blazicons.Devicon.wasm": "sha256-AUJa7rY2W88OsICDE3qWsIBlKmtd0aQXZ2w0TgK1eY8=",
       "Blazicons.FluentUI.wasm": "sha256-va+GLSs8Li8729QGKG9ax/L8hBCAQkVc3pN6+43l2jI=",
       "Blazicons.FontAwesome.wasm": "sha256-oXXDNGwNYCVAspHwELtDQobkhM5ZeRm6/XsmuDZhGis=",
       "Blazicons.GoogleMaterialDesign.wasm": "sha256-WiKGs3aAvy59v+dhg7yAKg/5pyuyj0Ns8uumWOFahKg=",
-      "Blazicons.Ionicons.wasm": "sha256-1hwktup3Ut+gvNhGvQHpMospObPvqbZlYJGrdKx+pBQ=",
+      "Blazicons.Ionicons.wasm": "sha256-aOTFFyW3j2QrkmjdibmaT+KVD39cpAuLatYLj9CsyzE=",
       "Blazicons.Lucide.wasm": "sha256-nPR2+5QHapdDsq8NAORiWLKJOPzYDEWbYu6K2otEZcY=",
       "Blazicons.MaterialDesignIcons.wasm": "sha256-EG7zaefRiaZLK/qtSETTpKXm5EyD0jX1wy/hLD12WxM=",
       "Blazicons.wasm": "sha256-IothgGO8+7AwE+EB1u23sgEbkNyZPCG6r6qVMk/D/Vw=",
