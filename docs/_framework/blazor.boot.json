@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazicons.Demo",
   "resources": {
-    "hash": "sha256-AbHZR7xL1Jy5gN1ZwmBXevfumYSbx/KKt+os3cd1UMU=",
+    "hash": "sha256-O1Ub/v3Zs8C3eO2XjqMOXri6OLVR7KhH6tRYHCdAoYw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -19,16 +19,16 @@
     "coreAssembly": {},
     "assembly": {
       "BindingBits.wasm": "sha256-n0GtRvL20+lzeXL6WJC9BoFKkF7jW6KO/Aae/6cLon4=",
-      "Blazicons.wasm": "sha256-3yjS0JA+3uyJwzQHAdKfTGo0W2wogEbqH/cxGXK6p+Y=",
-      "Blazicons.Bootstrap.wasm": "sha256-jGaaMJR0pzE3A+i7+IyqI1zYMUrrqxrK44gul2fVpHg=",
-      "Blazicons.Devicon.wasm": "sha256-Q4Qwzx9GyPPmu+FZvql6O25dEx42mUx2ihsvyCReES8=",
-      "Blazicons.FlagIcons.wasm": "sha256-k5U/ihvWr4gyPSp60v22IFreEi8bmtrsB4E7OPgIWSc=",
-      "Blazicons.FluentUI.wasm": "sha256-TZIimXL0GBVa7d0SQl0v6XH3+b1w4FjACqK1DC1MHn8=",
-      "Blazicons.FontAwesome.wasm": "sha256-KcsyvDh77iPpV5eBLuvsonRPT0nar7DEIQUFj+n6rvM=",
-      "Blazicons.GoogleMaterialDesign.wasm": "sha256-+kXKLzpXX77WKLPhlcfTN/dXRt2NBVzY7JK8WF7dPwQ=",
-      "Blazicons.Ionicons.wasm": "sha256-bMC1ovAPFv3FS1iqohUscgCdQ6jmAa7IXOzwKvhZfDw=",
-      "Blazicons.Lucide.wasm": "sha256-nYQD/clVyp1UIQV8Bpzm9a46ll0PxA16Va5bgyM53Wo=",
-      "Blazicons.MaterialDesignIcons.wasm": "sha256-n05mUAr6gDzkU9rrHR5H5wp0yQBVLQH1uCEYOjxRIXY=",
+      "Blazicons.wasm": "sha256-icLgjUAQi0NGXt5tYvJ6JAZho3J/ccE3JMurjuDonDU=",
+      "Blazicons.Bootstrap.wasm": "sha256-iUlLkWyCPwjyEHfC1Gmbpak1kArE/YMvUEV96cVK2Jw=",
+      "Blazicons.Devicon.wasm": "sha256-2h2YpAgA/vfn7q2OtWiuYt9jlqMv+BfmFWYdmBEco4M=",
+      "Blazicons.FlagIcons.wasm": "sha256-WkiVRhRV6IPT/CXgrukkyhyvdHaAhaJ91PtSqSwRIVQ=",
+      "Blazicons.FluentUI.wasm": "sha256-upYXx43n9eZrO2wyodWj9Bmp+c3RFSaIMURQI91acZM=",
+      "Blazicons.FontAwesome.wasm": "sha256-4QNUHiH8iJWamvunprEEyhlZzJJ5twjr8Qv3qHB9yWI=",
+      "Blazicons.GoogleMaterialDesign.wasm": "sha256-h3zAcyME1lhf51WwotmVDPGDguP/RDWvj6BJPS0kHvU=",
+      "Blazicons.Ionicons.wasm": "sha256-rUVr80375eoneb8dKVXT2N5uUGxpP8Gyswj8lME3EbI=",
+      "Blazicons.Lucide.wasm": "sha256-RGLdfxFLo8cFal9hhcaP1suT9FPV5XdUo95KweSy6sM=",
+      "Blazicons.MaterialDesignIcons.wasm": "sha256-ZU2igJYQB4k8dEy5Ysh1xdOILNDm6yx57VKzfN/8CRo=",
       "Blazor-Analytics.wasm": "sha256-VIHzI5xU82EmdqXC80Au4/cWOQw5sKeSuA0gQr4Zz7Y=",
       "BlazorComponentUtilities.wasm": "sha256-3TgvS/HUtEk/6K33ycKciSd5J6RBnSq8vEqA5ZhHjj0=",
       "BlazorDownloadFile.wasm": "sha256-YB8HlaKSU6hGhkiMwSSlwRa4MDljnOAAmxBFTAqQWes=",
@@ -96,7 +96,7 @@
       "System.wasm": "sha256-Imc3VKweWiVSTfISxn8qRdbj1a3TmdIPoZ2BQ8U+dV8=",
       "netstandard.wasm": "sha256-2o7UzgBNoyNUeTPpZz/SSn0EQ6MSCFlMHGnIYCznWxE=",
       "System.Private.CoreLib.wasm": "sha256-jJPzp2ouG0enZqtZA83iGHNX7+Rr6oeKSIzbQuKB5jM=",
-      "Blazicons.Demo.wasm": "sha256-vWpXd+tomBzSxvXzRZiQ0ePqvzLI2BEXtMp5tpSxVS8="
+      "Blazicons.Demo.wasm": "sha256-YMqKNIPKyu654ekYGkBNhYj5UfDBh7tZF/yWvW+3kgQ="
     }
   },
   "cacheBootResources": true,
